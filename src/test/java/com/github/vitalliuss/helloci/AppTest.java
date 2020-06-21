@@ -17,7 +17,6 @@ public class AppTest {
 	}
 
 	@Test
-	@Ignore
 	public void testShouldBeFailed() {
 		assertTrue(true);
 	}
